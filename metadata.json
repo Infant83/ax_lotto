@@ -1,0 +1,8 @@
+{
+  "name": "LG Arts Center Lottery",
+  "description": "A retro-futuristic, Miyazaki-style ticket lottery app for LG Arts Center Seoul events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
